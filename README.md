@@ -65,7 +65,7 @@ You’ll find:
 ## 🤝 Let's Connect
 
 💬 Got feedback? Want to collaborate or refer me to cool cloud gigs? I'm all ears!  
-📫 [Email Me](mailto:swethacsam@gmail.com) | 💼 [LinkedIn]((https://www.linkedin.com/in/swetha-botta/))
+📫 [Email Me](mailto:swethacsam@gmail.com) | 💼 [LinkedIn]([(https://www.linkedin.com/in/swetha-botta/)])
 
 ---
 
